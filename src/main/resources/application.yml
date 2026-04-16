@@ -4,7 +4,7 @@ spring:
   # 默认 dev 环境
   ai:
     dashscope:
-      api-key: xxxxxxxxxxxx
+      api-key: xxxxxxxxx
       chat:
         options:
           model: qwen-plus
@@ -25,7 +25,7 @@ spring:
   datasource:
     url: jdbc:postgresql://39.102.75.66/aiquestoin?useSSL=false&serverTimezone=UTC
     username: postgres
-    password: 20021020eqiq
+    password: xxxxxxxxx
     type: com.alibaba.druid.pool.DruidDataSource
     driverClassName: org.postgresql.Driver
   # Redis 配置
