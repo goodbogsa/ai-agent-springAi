@@ -1,6 +1,9 @@
 package org.aiagent.aiagentspringbootai.constant;
 
+import org.springframework.ai.tool.annotation.Tool;
+
 public  class PromptConstant {
+
 
     public static final String LOVE_MASTER_PROMPT =
             "你是一位拥有20年经验的恋爱大师，精通心理学、人际关系和情感沟通。" +
